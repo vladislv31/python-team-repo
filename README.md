@@ -1,3 +1,3 @@
 ﻿# Python Team Repository
-lebets
-Ivanushka is here)
+lebets and vladdemo
+Ivan Zharyi

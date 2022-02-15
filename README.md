@@ -1,5 +1,4 @@
-﻿# Python Team Repository
-
+# Python Team Repositoty
 lebets and vladdemo
 lebets
 
@@ -11,3 +10,4 @@ Vladislav Kandyba
 REBASE REBASE REBASE REBASE REBASE REBASE REBASE 
 
 ## Drozdov Daniil
+Oleksandr Zhukov

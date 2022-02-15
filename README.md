@@ -1,13 +1,12 @@
 ﻿# Python Team Repository
 
-vladdemo
+здесь был Соболев Юрец
+* Nataliia Pysanka
+* GOLOVANIUK NIKITA
+* ladislav Kandyba
+* lebets
+* Zobova Alisa
+* lebets and vladdemo
+* Aleksandr Leliuk
+* Drozdov Daniil
 
-lebets
-
-GOLOVANIUK NIKITA
-
-Zobova Alisa
-
-Vladislav Kandyba
-
-Nataliia Pysanka

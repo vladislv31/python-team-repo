@@ -7,3 +7,4 @@ GOLOVANIUK NIKITA
 
 Nikolett Drahun
 Zobova Alisa
+Vladislav Kandyba

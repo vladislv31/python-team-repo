@@ -1,2 +1,3 @@
-﻿# Python Team Repository
+# Python Team Repository
 lebets and vladdemo
+Oleksandr Zhukov

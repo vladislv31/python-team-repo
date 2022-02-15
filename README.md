@@ -1,2 +1,2 @@
 ﻿# Python Team Repository
-lebets and vladdemo
+здесь был Соболев Юрец

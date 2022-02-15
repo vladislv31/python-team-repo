@@ -1,3 +1,3 @@
 ﻿# Python Team Repository
-lebets
+lebets and vladdemo
 Sergey Sobolenko

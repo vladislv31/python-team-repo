@@ -1,14 +1,13 @@
 ﻿# Python Team Repository
 
 lebets and vladdemo
-lebets
 
 GOLOVANIUK NIKITA
 
 Zobova Alisa
 Vladislav Kandyba
+Sasha Murtishcheva
 
-REBASE REBASE REBASE REBASE REBASE REBASE REBASE 
 
 ## Drozdov Daniil
 

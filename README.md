@@ -8,3 +8,4 @@
 * lebets and vladdemo
 * Aleksandr Leliuk
 * Drozdov Daniil
+* Rizhikov Kirill

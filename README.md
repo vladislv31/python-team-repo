@@ -9,4 +9,4 @@
 * lebets and vladdemo
 * Aleksandr Leliuk
 * Drozdov Daniil
-
+* Nataliia Pysanka
